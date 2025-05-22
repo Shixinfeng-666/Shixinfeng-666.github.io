@@ -2,35 +2,46 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Presentation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Presentation - Journal Club</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: auto;
-      padding: 40px;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      background-color: #f4f4f4;
     }
-    h1 {
-      color: #2c3e50;
+    #pdf-viewer {
+      width: 90%;
+      max-width: 900px;
+      margin-top: 40px;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
     iframe {
-      margin-top: 30px;
-      border: 1px solid #ccc;
+      display: block;
+      width: 100%;
+      height: 100vh;
+      border: none;
     }
   </style>
 </head>
 <body>
 
-  <h1>Welcome</h1>
-  <p>My name is <strong>WU Shaoran</strong>. I am an <strong>IBI1 student</strong> at the <strong>Zhejiang University - University of Edinburgh Institute (ZJE)</strong>.</p>
+  <h1 style="text-align: center; margin-top: 20px;">Welcome to My Journal Club Presentation</h1>
+  <p style="text-align: center; font-size: 18px;">My name is WU Shaoran. I am an IBI1 student at the Zhejiang University - University of Edinburgh (ZJE) Institute.</p>
 
-  <p>You can visit the ZJE official website <a href="https://www.zje.intl.zju.edu.cn/" target="_blank">here</a>.</p>
+  <p style="text-align: center;">
+    You can visit the <a href="https://www.zje.intl.zju.edu.cn/" target="_blank">ZJE official website here</a>.
+  </p>
 
-  <h2>Presentation Preview</h2>
-  <p>Below is my presentation. If your browser does not support embedded PDFs, you can <a href="Journal_club.pdf" download>download the file here</a>.</p>
+  <h2 style="text-align: center; margin-top: 40px;">Presentation Preview</h2>
+  <p style="text-align: center;">Below is my presentation. If your browser does not support embedded PDFs, you can <a href="Journal_club.pdf" download>download the file here</a>.</p>
 
-  <iframe src="presentation.pdf" width="100%" height="700px">
-    This browser does not support PDF preview. Please <a href="Journal_club.pdf">click here to download the PDF</a>.
+  <iframe src="Journal_club.pdf#zoom=page-width">
+    This browser does not support PDFs. Please <a href="Journal_club.pdf">download it here</a> to view it.
   </iframe>
 
 </body>
