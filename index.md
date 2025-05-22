@@ -31,7 +31,7 @@
 <body>
 
   <h1 style="text-align: center; margin-top: 20px;">Welcome to My Journal Club Presentation</h1>
-  <p style="text-align: center; font-size: 18px;">My name is WU Shaoran. I am an IBI1 student at the Zhejiang University - University of Edinburgh (ZJE) Institute.</p>
+  <p style="text-align: center; font-size: 18px;">My name is Wu Shaoran. I am an IBI1 student at the Zhejiang University - University of Edinburgh (ZJE) Institute.</p>
 
   <p style="text-align: center;">
     You can visit the <a href="https://www.zje.intl.zju.edu.cn/" target="_blank">ZJE official website here</a>.
