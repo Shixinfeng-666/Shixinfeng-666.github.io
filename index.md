@@ -31,17 +31,14 @@
 <body>
 
   <h1 style="text-align: center; margin-top: 20px;">Welcome to My Journal Club Presentation</h1>
-  <p style="text-align: center; font-size: 18px;">My name is Wu Shaoran. I am an IBI1 student at the Zhejiang University - University of Edinburgh (ZJE) Institute.</p>
-
-  <p style="text-align: center;">
-    You can visit the <a href="https://www.zje.intl.zju.edu.cn/" target="_blank">ZJE official website here</a>.
+  <p style="text-align: center; font-size: 18px;">My name is Wu Shaoran. I am an IBI1 student at the Zhejiang University - University of Edinburgh (ZJE) Institute. You can visit the <a href="https://www.zje.intl.zju.edu.cn/" target="_blank">ZJE official website here</a>.
   </p>
 
   <h2 style="text-align: center; margin-top: 40px;">Presentation Preview</h2>
   <p style="text-align: center;">Below is my presentation. If your browser does not support embedded PDFs, you can <a href="Journal_club.pdf" download>download the file here</a>.</p>
 
   <iframe src="Journal_club.pdf#zoom=page-width">
-    This browser does not support PDFs. Please <a href="Journal_club.pdf">download it here</a> to view it.
+    Browser does not support PDFs. Please <a href="Journal_club.pdf">download it here</a> to view it.
   </iframe>
 
 </body>
