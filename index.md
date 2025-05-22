@@ -1,20 +1,37 @@
-## Welcome 
-
-My name is WU Shaoran. 
-I am an IBI1 student at the Zhejiang University - University of Edinburgh (ZJE) Institute.
-
-You can see the ZJE website [here](https://zje.zju.edu.cn/zje/main.htm) 
-
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>我的演示文稿</title>
+  <title>My Presentation</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 40px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    iframe {
+      margin-top: 30px;
+      border: 1px solid #ccc;
+    }
+  </style>
 </head>
 <body>
-  <h1>我的演示文稿展示</h1>
-  <iframe src="presentation.pdf" width="100%" height="700px" style="border:none;">
-    此浏览器不支持 PDF 预览，请<a href="presentation.pdf">点击这里下载 PDF</a>
+
+  <h1>Welcome</h1>
+  <p>My name is <strong>WU Shaoran</strong>. I am an <strong>IBI1 student</strong> at the <strong>Zhejiang University - University of Edinburgh Institute (ZJE)</strong>.</p>
+
+  <p>You can visit the ZJE official website <a href="https://www.zje.intl.zju.edu.cn/" target="_blank">here</a>.</p>
+
+  <h2>Presentation Preview</h2>
+  <p>Below is my presentation. If your browser does not support embedded PDFs, you can <a href="presentation.pdf" download>download the file here</a>.</p>
+
+  <iframe src="presentation.pdf" width="100%" height="700px">
+    This browser does not support PDF preview. Please <a href="presentation.pdf">click here to download the PDF</a>.
   </iframe>
+
 </body>
 </html>
