@@ -27,10 +27,10 @@
   <p>You can visit the ZJE official website <a href="https://www.zje.intl.zju.edu.cn/" target="_blank">here</a>.</p>
 
   <h2>Presentation Preview</h2>
-  <p>Below is my presentation. If your browser does not support embedded PDFs, you can <a href="presentation.pdf" download>download the file here</a>.</p>
+  <p>Below is my presentation. If your browser does not support embedded PDFs, you can <a href="Journal_club.pdf" download>download the file here</a>.</p>
 
-  <iframe src="presentation.pdf" width="100%" height="700px">
-    This browser does not support PDF preview. Please <a href="presentation.pdf">click here to download the PDF</a>.
+  <iframe src="Journal_club.pdf" width="100%" height="700px">
+    This browser does not support PDF preview. Please <a href="Journal_club.pdf">click here to download the PDF</a>.
   </iframe>
 
 </body>
