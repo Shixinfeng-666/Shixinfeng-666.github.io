@@ -35,7 +35,8 @@
   </p>
 
   <h2 style="text-align: center; margin-top: 40px;">Presentation Preview</h2>
-  <p style="text-align: center;">Below is my presentation. If your browser does not support embedded PDFs, you can <a href="Journal_club.pdf" download>download the file here</a>.</p>
+  <p style="text-align: center;">Below is my presentation. If your browser does not support embedded PDFs, </p>
+  <p style="text-align: center;">you can <a href="Journal_club.pdf" download>download the file here</a>.</p>
 
   <iframe src="Journal_club.pdf#zoom=page-width">
     Browser does not support PDFs. Please <a href="Journal_club.pdf">download it here</a> to view it.
