@@ -29,9 +29,10 @@
   <h2>Presentation Preview</h2>
   <p>Below is my journal club material. If your browser does not support embedded PDFs, you can <a href="Journal_club.pdf" download>download the file here</a>.</p>
 
-  <iframe src="presentation.pdf" width="1000%" height="1000vh" style="border:none;"></iframe>
-    This browser does not support PDF preview. Please <a href="Journal_club.pdf">click here to download the PDF</a>.
-  </iframe>
+  
+  This browser does not support PDFs. Please <a href="presentation.pdf">download the file</a> to view it.
+
+</iframe>
 
 </body>
 </html>
